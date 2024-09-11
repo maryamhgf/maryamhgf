@@ -2,12 +2,6 @@
 
 👩🏻‍💻 I’m currently a **Machine Learning Researcher**.
 
-## 📊 GitHub Language Analytics
-
-Here’s a breakdown of the languages I’ve worked with across my projects:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhgf&layout=compact&hide=html)
-
 ## 🛠️ Library and Framework Analytics
 Throughout my projects, I’ve worked with the following libraries and frameworks:
 
@@ -75,7 +69,11 @@ Throughout my projects, I’ve worked with the following libraries and framework
   - Graph RNN
   - SMT Solvers
 
+## 📊 GitHub Language Analytics
 
+Here’s a breakdown of the languages I’ve worked with across my projects:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhgf&layout=compact&hide=html)
 
 
 ## 📫 Contact Me
