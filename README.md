@@ -9,6 +9,8 @@ Here’s a breakdown of the languages I’ve worked with across my projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhgf&layout=compact&hide=html)
 
 ## 🛠️ Library and Framework Analytics
+Throughout my projects, I’ve worked with the following libraries and frameworks:
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -37,7 +39,6 @@ Here’s a breakdown of the languages I’ve worked with across my projects:
 ![Graph RNN](https://img.shields.io/badge/Graph%20RNN-%232D74DA.svg?style=for-the-badge&logo=Graph%20RNN&logoColor=white)
 ![SMT Solvers](https://img.shields.io/badge/SMT%20Solvers-%231F77B4.svg?style=for-the-badge&logo=SMT&logoColor=white)
 
-Throughout my projects, I’ve worked with the following libraries and frameworks:
 
 - **Machine Learning & Deep Learning:**
   - PyTorch (including PyTorch Geometric)
